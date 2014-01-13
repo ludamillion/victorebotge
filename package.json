@@ -1,0 +1,31 @@
+{
+  "name": "victor-botge",
+  "version": "0.0.1",
+  "description": "A little Twitterbot to inflate language...",
+  "main": "victor.js",
+  "dependencies": {
+    "twit": "~1.1.11",
+    "util": "~0.10.2",
+    "oauth": "~0.9.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ludamillion/victorebotge.git"
+  },
+  "keywords": [
+    "Twitterbot",
+    "bot",
+    "victor",
+    "borge"
+  ],
+  "author": "Luke Inglis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ludamillion/victorebotge/issues"
+  },
+  "homepage": "https://github.com/ludamillion/victorebotge"
+}
